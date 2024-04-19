@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265065914984",
+    "project_id": "interioar-fa4ed",
+    "storage_bucket": "interioar-fa4ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265065914984:android:7d3e99aa5318dcc10511dd",
+        "android_client_info": {
+          "package_name": "com.example.interioar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU0RUtIzIDgLBXPKh-bC7Ep6ZxvvWJ4no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
